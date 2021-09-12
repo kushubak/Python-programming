@@ -1,0 +1,5 @@
+#your code goes here
+min_in_hours=888//60
+remaining_min=888%60
+print(min_in_hours)
+print (remaining_min)
