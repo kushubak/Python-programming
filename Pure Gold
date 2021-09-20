@@ -1,0 +1,2 @@
+if float(input()) >= 91.7:
+ print("Accepted")
